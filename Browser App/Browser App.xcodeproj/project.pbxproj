@@ -65,7 +65,6 @@
 		C84BC6582A6D943B0054C0BA /* OrganizationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrganizationCell.swift; sourceTree = "<group>"; };
 		C84BC65A2A6D94730054C0BA /* CellModeledView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellModeledView.swift; sourceTree = "<group>"; };
 		C84BC65D2A6D94DC0054C0BA /* OrganizationCellModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrganizationCellModel.swift; sourceTree = "<group>"; };
-		C84BC65F2A6E6FC90054C0BA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C88A159F2A6B196C0092B1D9 /* Browser Lib */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "Browser Lib"; path = "../Browser Lib"; sourceTree = "<group>"; };
 		C8A116E82A6A8DD6001B8F7C /* Browser App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Browser App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8A116EB2A6A8DD6001B8F7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -176,7 +175,6 @@
 		C8A116DF2A6A8DD6001B8F7C = {
 			isa = PBXGroup;
 			children = (
-				C84BC65F2A6E6FC90054C0BA /* README.md */,
 				C87C02672A6ACF0E00F04F6E /* Packages */,
 				C8A116EA2A6A8DD6001B8F7C /* Browser App */,
 				C8A117042A6A8DD9001B8F7C /* Browser AppTests */,
