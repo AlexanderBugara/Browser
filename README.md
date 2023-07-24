@@ -1,7 +1,7 @@
 #  README
 
 
-1. To use application -> SceneDelegate -> let token = "" nedd to be changed to github token
+1. To use application -> SceneDelegate -> let token = "" need to be changed to github token
 
 2. Regarding: It should be possible to search/filter organizations by name
 
